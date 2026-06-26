@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Wireless Headphones",
+        "category": "Audio",
+        "price": 79.99,
+        "rating": 4.6,
+        "reviews": 1262,
+        "stock": "In Stock",
+        "description": "Over-ear Bluetooth headphones with 30-hour battery life and active noise cancellation. Premium 40mm drivers, foldable design, built-in mic. Supports multipoint connection to two devices.",
+        "warranty": "1 year"
+    },
+    {
+        "name": "Smart Watch",
+        "category": "Wearables",
+        "price": 199.99,
+        "rating": 4.3,
+        "reviews": 340,
+        "stock": "In Stock",
+        "description": "Tracks heart rate, blood oxygen, sleep stages, and stress. 5-day battery, water-resistant 50m. Built-in GPS, NFC payments. Works with Android and iOS.",
+        "warranty": "2 years"
+    },
+    {
+        "name": "Mechanical Keyboard",
+        "category": "Computer Peripherals",
+        "price": 129.00,
+        "rating": 4.8,
+        "reviews": 67,
+        "stock": "Low Stock (5 remaining)",
+        "description": "Tenkeyless with Cherry MX Brown switches. Per-key RGB, hot-swappable switches, detachable USB-C cable, double-shot PBT keycaps. N-key rollover for gaming.",
+        "warranty": "2 years"
+    },
+    {
+        "name": "Laptop Stand",
+        "category": "Accessories",
+        "price": 34.99,
+        "rating": 4.5,
+        "reviews": 781,
+        "stock": "In Stock",
+        "description": "Adjustable aluminium stand for 11-17 inch laptops. Six height settings, folds flat for portability. Anti-slip silicone pads, supports up to 10 kg.",
+        "warranty": "1 year"
+    },
+    {
+        "name": "USB-C Hub",
+        "category": "Accessories",
+        "price": 49.99,
+        "rating": 4.4,
+        "reviews": 523,
+        "stock": "In Stock",
+        "description": "7-in-1 hub: 4K HDMI, 3x USB-A 3.0, SD/microSD readers, 100W PD charging. Plug-and-play, aluminium body. Compatible with MacBook, Dell XPS, all USB-C laptops.",
+        "warranty": "1 year"
+    },
+    {
+        "name": "Wireless Mouse",
+        "category": "Computer Peripherals",
+        "price": 39.99,
+        "rating": 4.7,
+        "reviews": 892,
+        "stock": "In Stock",
+        "description": "Bluetooth 5.0 + 2.4GHz dongle. Ultra-quiet clicks, 4000 DPI sensor. Rechargeable 60-day battery, USB-C fast charge. Works on any surface including glass.",
+        "warranty": "1 year"
+    },
+    {
+        "name": "Portable SSD",
+        "category": "Storage",
+        "price": 89.99,
+        "rating": 4.9,
+        "reviews": 1450,
+        "stock": "In Stock",
+        "description": "1TB with 1050 MB/s read speed. USB 3.2 Gen 2, USB-C. Drop resistant 2m, IP55 dust/water rated. 256-bit AES encryption. Pocket-sized, 58 grams. Works with PC, Mac, PlayStation, Xbox.",
+        "warranty": "5 years"
+    },
+    {
+        "name": "Webcam HD",
+        "category": "Audio",
+        "price": 59.99,
+        "rating": 4.2,
+        "reviews": 234,
+        "stock": "In Stock",
+        "description": "1080p with auto-focus and light correction. Dual stereo mics with noise reduction. 78-degree wide-angle lens, privacy shutter. Plug-and-play USB-A. Great for calls and streaming.",
+        "warranty": "1 year"
+    },
+    {
+        "name": "Gaming Monitor",
+        "category": "Displays",
+        "price": 349.99,
+        "rating": 4.7,
+        "reviews": 612,
+        "stock": "Low Stock (3 remaining)",
+        "description": "27-inch QHD 165Hz IPS, 1ms response. FreeSync + G-Sync compatible, HDR400. 95% DCI-P3 color. Height adjustable stand. 2x HDMI 2.0 + DisplayPort 1.4.",
+        "warranty": "3 years"
+    },
+    {
+        "name": "Noise Cancelling Earbuds",
+        "category": "Audio",
+        "price": 149.99,
+        "rating": 4.5,
+        "reviews": 956,
+        "stock": "In Stock",
+        "description": "True wireless with adaptive ANC and transparency mode. 8hr battery + 24hr case. IPX5 water resistant. Spatial audio, touch controls. Wireless Qi charging case.",
+        "warranty": "1 year"
+    }
+]

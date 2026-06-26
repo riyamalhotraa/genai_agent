@@ -1,0 +1,88 @@
+RIYA MALHOTRA
+AI Engineer
+Phone: 8168111180 | Email: riyassmmalhotra@email.com | LinkedIn: linkedin.com/in/riyamalhotraa | GitHub: github.com/riyamalhotraa
+Location: India
+
+-------------------------------------------------------------------
+PROFESSIONAL SUMMARY
+-------------------------------------------------------------------
+Results-driven AI Engineer with 2 years of experience designing, training, and
+deploying machine learning and deep learning models for production environments.
+Skilled in NLP, computer vision, and MLOps practices, with a strong track record
+of optimizing model performance and reducing deployment time. Adept at
+collaborating with cross-functional teams to translate business requirements
+into scalable AI solutions.
+
+-------------------------------------------------------------------
+TECHNICAL SKILLS
+-------------------------------------------------------------------
+Programming Languages   : Python, SQL, C, C++
+ML/DL Frameworks        : TensorFlow, PyTorch, Scikit-learn, Keras
+NLP & LLMs              : Hugging Face Transformers, LangChain, OpenAI API,
+                          Prompt Engineering, RAG pipelines
+Computer Vision         : OpenCV, YOLO, CNN architectures
+Data Tools              : Pandas, NumPy, Apache Spark
+MLOps & Deployment      : Docker, Kubernetes, MLflow, FastAPI, AWS SageMaker, GCP Vertex AI
+Databases               : PostgreSQL, MongoDB, Vector DBs (Pinecone, FAISS)
+Version Control & CI/CD : Git, GitHub Actions, Jenkins
+
+-------------------------------------------------------------------
+NON-TECHNICAL SKILLS
+-------------------------------------------------------------------
+- Problem Solving & Critical Thinking
+- Cross-functional Team Collaboration
+- Technical Documentation & Communication
+- Stakeholder Management
+- Agile/Scrum Methodologies
+- Mentoring Junior Engineers
+
+-------------------------------------------------------------------
+PROFESSIONAL EXPERIENCE
+-------------------------------------------------------------------
+AI Engineer
+ABC Technologies Pvt. Ltd. | Bengaluru, India | Jul 2023 - Present
+- Designed and deployed an NLP-based chatbot using LLMs and RAG, reducing
+  customer query resolution time by 35%.
+- Built and optimized computer vision models for defect detection, improving
+  accuracy by 18% over baseline.
+- Developed end-to-end ML pipelines using MLflow and Docker, cutting model
+  deployment time from days to hours.
+- Collaborated with product teams to define AI feature roadmaps and success metrics.
+
+Machine Learning Engineer
+XYZ Solutions | Pune, India | Jun 2022 - Jun 2023
+- Built predictive models for customer churn using XGBoost, achieving 88% accuracy.
+- Automated data preprocessing pipelines with Apache Spark, reducing processing
+  time by 40%.
+- Assisted in fine-tuning transformer models for sentiment analysis tasks.
+
+AI/ML Intern
+TechStart Labs | Remote | Jan 2022 - May 2022
+- Supported development of image classification models using CNNs in PyTorch.
+- Conducted exploratory data analysis and created visualization dashboards.
+
+-------------------------------------------------------------------
+PROJECTS
+-------------------------------------------------------------------
+- Resume Screening AI: Built an LLM-powered tool to parse and rank resumes
+  against job descriptions using semantic similarity.
+- Sales Forecasting Dashboard: Developed a time-series forecasting model
+  with Prophet, integrated into a Streamlit dashboard.
+
+-------------------------------------------------------------------
+EDUCATION
+-------------------------------------------------------------------
+B.Tech in Computer Science Engineering
+ABC University | 2018 - 2022
+
+-------------------------------------------------------------------
+CERTIFICATIONS
+-------------------------------------------------------------------
+- AWS Certified Machine Learning - Specialty
+- DeepLearning.AI TensorFlow Developer Certificate
+
+-------------------------------------------------------------------
+LANGUAGES
+-------------------------------------------------------------------
+- English (Fluent)
+- Hindi (Native)

@@ -1,0 +1,17 @@
+chromadb
+faiss-cpu
+ipykernel
+langchain
+langchain-chroma
+langchain-community
+langchain-core
+langchain-google-genai
+langchain-groq
+langchain-huggingface
+langchain-openai
+langgraph
+pymupdf
+pypdf
+python-dotenv
+sentence-transformers
+typesense
